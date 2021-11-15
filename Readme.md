@@ -5,10 +5,13 @@
 - 💬 Ask me about **Raspberry Pi, Algorithm, Socket Programing**
 <hr>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsrfeyzullah&layout=compact&hide=html" alt="hsrfeyzullah" />
-</p> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsrfeyzullah&layout=compact" alt="hsrfeyzullah" />
+</p>
+
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsrfeyzullah&show_icons=true" alt="hsrfeyzullah" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsrfeyzullah&show_icons=true" alt="hsrfeyzullah" />-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsrfeyzullah"/> 
+  <!--<img align="center" src="https://github.com/hsrfeyzullah/github-readme-stats"/>-->
 </p>
 <!-- ### Languages and Tools: -->
 <img align="left" alt="c_programing" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
