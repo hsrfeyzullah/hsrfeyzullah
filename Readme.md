@@ -22,7 +22,6 @@
 <!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Raspberry" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
 <img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" />
